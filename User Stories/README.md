@@ -1,6 +1,5 @@
-A user-story is of the form:
-
-    As a `type of user` I want to do `some goal` so that `some result`.
+A user-story is of the form: <br>
+As a `type of user` I want to be able to do `some goal` so that `some result`.
 
 <hr>
 
