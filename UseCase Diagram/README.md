@@ -1,1 +1,2 @@
-For UseCase Diagram, StarUML is used.
+The UseCase Diagram was created using [DrawIO](https://draw.io)
+
