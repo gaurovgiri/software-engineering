@@ -2,7 +2,9 @@
 This repository contains my software engineering lab works.
 The topic of interest for the lab was "E-Library Management System"
 <hr>
-It includes following:
+<br>
+It includes following: 
+
 - User Story
 - UseCase Diagram
 - DFD Level 0
